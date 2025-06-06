@@ -1,0 +1,20 @@
+{
+  "name": "Robo Initial Postions",
+  "version": "0.0.1",
+  "description": "AI Robot GECK Project Initial Positions",
+  "keywords": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AI-Robot-GCEK/robo-initial-positions"
+  },
+  "authors": [
+    {
+      "name": "Arun CS",
+      "email": "aruncs31s@proton.me",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32", "espressif8266"]
+}
