@@ -1,6 +1,8 @@
 // Format
 // <part>_INITIAL_POSITION
 
+
+
 // Left Arm 
 #define LA1_INITIAL_POSITION 10
 #define LA2_INITIAL_POSITION 0
@@ -26,5 +28,5 @@
 #define RL3_INITIAL_POSITION 39
 
 // Foots
-#define LF_INITIAL_POSITION 99
-#define RF_INITIAL_POSITION 99
+#define LF_INITIAL_POSITION 90
+#define RF_INITIAL_POSITION 90

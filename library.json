@@ -1,6 +1,6 @@
 {
   "name": "Robo Initial Postions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AI Robot GECK Project Initial Positions",
   "keywords": "",
   "repository": {
@@ -10,8 +10,7 @@
   "authors": [
     {
       "name": "Arun CS",
-      "email": "aruncs31s@proton.me",
-      "url": ""
+      "email": "aruncs31s@proton.me"
     }
   ],
   "license": "MIT",
